@@ -102,7 +102,7 @@ img {
 .StVRbutton {
   position: relative;
   /* top: 50%; */
-  left: 10%;
+  /* left: 10%; */
   border: 1.5px solid white;
   padding: 10px 20px;
   text-align: center;
